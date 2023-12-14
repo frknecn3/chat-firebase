@@ -1,9 +1,21 @@
-# React + Vite
+# Chat App using Firebase and React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1><a href='frknecn3-chat.netlify.app'>Live Demo</a></h1>
 
-Currently, two official plugins are available:
+<h2>Description:</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# chat-firebase
+<hr/>
+
+An elegant chat app using Google Firebase for managing message and user data as well as authorization and authentication. And React.js for the UI and communication with the database.
+
+<h2>Features:</h2>
+
+<ul>
+  <li>Log-in System using Google Accounts</li>
+  <li>Choosing between rooms based on room name</li>
+  <li>Realtime message sending and receiving</li>
+  <li>Profile photos and username display</li>
+  <li>Message received sound effects</li>
+  <li>Fully Responsive</li>
+  <li>Ultra-low memory usage (~30 MB RAM)</li>
+</ul>
