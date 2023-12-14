@@ -1,6 +1,6 @@
 # Chat App using Firebase and React.js
 
-<h1><a href='https://frknecn3-chat.netlify.app'>Live Demo</a></h1>
+<h1><a href='https://frknecn3-chat.netlify.app' target='_blank'>Live Demo</a></h1>
 
 <h2>Description:</h2>
 
