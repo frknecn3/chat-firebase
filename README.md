@@ -1,6 +1,6 @@
 # Chat App using Firebase and React.js
 
-<h1><a href=''>[go]([http://stackoverflow.com](https://frknecn3-chat.netlify.app)){:target="_blank"}</a></h1>
+<h1>[go](https://www.frknecn3-chat.netlify.app){:target="_blank"}</h1>
 
 <h2>Description:</h2>
 
